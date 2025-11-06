@@ -12,3 +12,6 @@ name = "skaf"
 [env.preview]
 name = "skaf-preview"
 
+[vars]
+NPM_CONFIG_PACKAGE_LOCK_ONLY = "true"
+
